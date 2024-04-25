@@ -1,0 +1,74 @@
+C:\Users\joako\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\231.8770.66\bin\cmake\win\x64\bin\cmake.exe -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - MinGW Makefiles" -S "C:\Users\joako\Desktop\Ing en Informatica - Facultad\Materias - 2do Año\2do Cuatrimestre\Estructura de Datos y Algoritmos\Practicos\Practicos de Maquina\P1-Grupo3" -B "C:\Users\joako\Desktop\Ing en Informatica - Facultad\Materias - 2do Año\2do Cuatrimestre\Estructura de Datos y Algoritmos\Practicos\Practicos de Maquina\P1-Grupo3\cmake-build-debug"
+-- The C compiler identification is GNU 12.2.0
+-- Detecting C compiler ABI info
+CMake Warning in C:/Users/joako/Desktop/Ing en Informatica - Facultad/Materias - 2do Año/2do Cuatrimestre/Estructura de Datos y Algoritmos/Practicos/Practicos de Maquina/P1-Grupo3/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-7q333n/CMakeLists.txt:
+  The object file directory
+
+    C:/Users/joako/Desktop/Ing en Informatica - Facultad/Materias - 2do Año/2do Cuatrimestre/Estructura de Datos y Algoritmos/Practicos/Practicos de Maquina/P1-Grupo3/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-7q333n/CMakeFiles/cmTC_0aac8.dir/
+
+  has 250 characters.  The maximum full path to an object file is 250
+  characters (see CMAKE_OBJECT_PATH_MAX).  Object file
+
+    CMakeCCompilerABI.c.obj
+
+  cannot be safely placed under this directory.  The build may not work
+  correctly.
+
+
+-- Detecting C compiler ABI info - failed
+-- Check for working C compiler: C:/Users/joako/Desktop/Cosas/mingw64/bin/gcc.exe
+CMake Warning in C:/Users/joako/Desktop/Ing en Informatica - Facultad/Materias - 2do Año/2do Cuatrimestre/Estructura de Datos y Algoritmos/Practicos/Practicos de Maquina/P1-Grupo3/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-comnwl/CMakeLists.txt:
+  The object file directory
+
+    C:/Users/joako/Desktop/Ing en Informatica - Facultad/Materias - 2do Año/2do Cuatrimestre/Estructura de Datos y Algoritmos/Practicos/Practicos de Maquina/P1-Grupo3/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-comnwl/CMakeFiles/cmTC_d14e9.dir/
+
+  has 250 characters.  The maximum full path to an object file is 250
+  characters (see CMAKE_OBJECT_PATH_MAX).  Object file
+
+    testCCompiler.c.obj
+
+  cannot be safely placed under this directory.  The build may not work
+  correctly.
+
+
+-- Check for working C compiler: C:/Users/joako/Desktop/Cosas/mingw64/bin/gcc.exe - broken
+CMake Error at C:/Users/joako/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/231.8770.66/bin/cmake/win/x64/share/cmake-3.25/Modules/CMakeTestCCompiler.cmake:70 (message):
+  The C compiler
+
+    "C:/Users/joako/Desktop/Cosas/mingw64/bin/gcc.exe"
+
+  is not able to compile a simple test program.
+
+  It fails with the following output:
+
+    Change Dir: C:/Users/joako/Desktop/Ing en Informatica - Facultad/Materias - 2do Año/2do Cuatrimestre/Estructura de Datos y Algoritmos/Practicos/Practicos de Maquina/P1-Grupo3/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-comnwl
+    
+    Run Build Command(s):C:/Users/joako/Desktop/Cosas/mingw64/bin/mingw32-make.exe -f Makefile cmTC_d14e9/fast && C:/Users/joako/Desktop/Cosas/mingw64/bin/mingw32-make.exe  -f CMakeFiles\cmTC_d14e9.dir\build.make CMakeFiles/cmTC_d14e9.dir/build
+    mingw32-make[1]: Entering directory 'C:/Users/joako/Desktop/Ing en Informatica - Facultad/Materias - 2do A±o/2do Cuatrimestre/Estructura de Datos y Algoritmos/Practicos/Practicos de Maquina/P1-Grupo3/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-comnwl'
+    CMakeFiles\cmTC_d14e9.dir\build.make:69: CMakeFiles/cmTC_d14e9.dir/progress.make: No such file or directory
+    mingw32-make[1]: *** No rule to make target 'CMakeFiles/cmTC_d14e9.dir/progress.make'.  Stop.
+    mingw32-make[1]: Leaving directory 'C:/Users/joako/Desktop/Ing en Informatica - Facultad/Materias - 2do A±o/2do Cuatrimestre/Estructura de Datos y Algoritmos/Practicos/Practicos de Maquina/P1-Grupo3/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-comnwl'
+    mingw32-make: *** [Makefile:126: cmTC_d14e9/fast] Error 2
+    
+    
+
+  
+
+  CMake will not be able to correctly generate this project.
+Call Stack (most recent call first):
+  CMakeLists.txt:2 (project)
+
+
+CMake Warning (dev) in CMakeLists.txt:
+  No cmake_minimum_required command is present.  A line of code such as
+
+    cmake_minimum_required(VERSION 3.25)
+
+  should be added at the top of the file.  The version specified may be lower
+  if you wish to support older CMake versions for this project.  For more
+  information run "cmake --help-policy CMP0000".
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+-- Configuring incomplete, errors occurred!
+See also "C:/Users/joako/Desktop/Ing en Informatica - Facultad/Materias - 2do Año/2do Cuatrimestre/Estructura de Datos y Algoritmos/Practicos/Practicos de Maquina/P1-Grupo3/cmake-build-debug/CMakeFiles/CMakeOutput.log".
+See also "C:/Users/joako/Desktop/Ing en Informatica - Facultad/Materias - 2do Año/2do Cuatrimestre/Estructura de Datos y Algoritmos/Practicos/Practicos de Maquina/P1-Grupo3/cmake-build-debug/CMakeFiles/CMakeError.log".

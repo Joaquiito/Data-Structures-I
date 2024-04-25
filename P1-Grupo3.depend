@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1664385006 source:c:\users\joako\desktop\ing en informatica - facultad\materias - 2do año\2do cuatrimestre\estructura de datos y algoritmos\practicos\practicos de maquina\p1-grupo3\main.c
+	<stdlib.h>
+	<stdio.h>
+	"LSOBT.h"
+
+1663551555 c:\users\joako\desktop\ing en informatica - facultad\materias - 2do año\2do cuatrimestre\estructura de datos y algoritmos\practicos\practicos de maquina\p1-grupo3\lsobt.h
+	"LSO.h"
+
+1663551555 c:\users\joako\desktop\ing en informatica - facultad\materias - 2do año\2do cuatrimestre\estructura de datos y algoritmos\practicos\practicos de maquina\p1-grupo3\lso.h
+	"Vendedor.h"
+
+1664384252 c:\users\joako\desktop\ing en informatica - facultad\materias - 2do año\2do cuatrimestre\estructura de datos y algoritmos\practicos\practicos de maquina\p1-grupo3\vendedor.h
+	<malloc.h>
+	<string.h>
+

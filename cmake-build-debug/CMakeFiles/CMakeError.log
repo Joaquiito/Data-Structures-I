@@ -1,0 +1,25 @@
+Detecting C compiler ABI info failed to compile with the following output:
+Change Dir: C:/Users/joako/Desktop/Ing en Informatica - Facultad/Materias - 2do Año/2do Cuatrimestre/Estructura de Datos y Algoritmos/Practicos/Practicos de Maquina/P1-Grupo3/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-7q333n
+
+Run Build Command(s):C:/Users/joako/Desktop/Cosas/mingw64/bin/mingw32-make.exe -f Makefile cmTC_0aac8/fast && C:/Users/joako/Desktop/Cosas/mingw64/bin/mingw32-make.exe  -f CMakeFiles\cmTC_0aac8.dir\build.make CMakeFiles/cmTC_0aac8.dir/build
+mingw32-make[1]: Entering directory 'C:/Users/joako/Desktop/Ing en Informatica - Facultad/Materias - 2do A±o/2do Cuatrimestre/Estructura de Datos y Algoritmos/Practicos/Practicos de Maquina/P1-Grupo3/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-7q333n'
+CMakeFiles\cmTC_0aac8.dir\build.make:69: CMakeFiles/cmTC_0aac8.dir/progress.make: No such file or directory
+mingw32-make[1]: *** No rule to make target 'CMakeFiles/cmTC_0aac8.dir/progress.make'.  Stop.
+mingw32-make[1]: Leaving directory 'C:/Users/joako/Desktop/Ing en Informatica - Facultad/Materias - 2do A±o/2do Cuatrimestre/Estructura de Datos y Algoritmos/Practicos/Practicos de Maquina/P1-Grupo3/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-7q333n'
+mingw32-make: *** [Makefile:126: cmTC_0aac8/fast] Error 2
+
+
+
+
+Determining if the C compiler works failed with the following output:
+Change Dir: C:/Users/joako/Desktop/Ing en Informatica - Facultad/Materias - 2do Año/2do Cuatrimestre/Estructura de Datos y Algoritmos/Practicos/Practicos de Maquina/P1-Grupo3/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-comnwl
+
+Run Build Command(s):C:/Users/joako/Desktop/Cosas/mingw64/bin/mingw32-make.exe -f Makefile cmTC_d14e9/fast && C:/Users/joako/Desktop/Cosas/mingw64/bin/mingw32-make.exe  -f CMakeFiles\cmTC_d14e9.dir\build.make CMakeFiles/cmTC_d14e9.dir/build
+mingw32-make[1]: Entering directory 'C:/Users/joako/Desktop/Ing en Informatica - Facultad/Materias - 2do A±o/2do Cuatrimestre/Estructura de Datos y Algoritmos/Practicos/Practicos de Maquina/P1-Grupo3/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-comnwl'
+CMakeFiles\cmTC_d14e9.dir\build.make:69: CMakeFiles/cmTC_d14e9.dir/progress.make: No such file or directory
+mingw32-make[1]: *** No rule to make target 'CMakeFiles/cmTC_d14e9.dir/progress.make'.  Stop.
+mingw32-make[1]: Leaving directory 'C:/Users/joako/Desktop/Ing en Informatica - Facultad/Materias - 2do A±o/2do Cuatrimestre/Estructura de Datos y Algoritmos/Practicos/Practicos de Maquina/P1-Grupo3/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-comnwl'
+mingw32-make: *** [Makefile:126: cmTC_d14e9/fast] Error 2
+
+
+
